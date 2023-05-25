@@ -1,0 +1,24 @@
+.posts-container{
+    background-color: #ffffff;
+    font-display: flex;
+    flex-direction: column;
+    padding: 3%;
+    margin: 0 ,2%;
+}
+
+.heading{
+    height: 126px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+}
+.image{
+    border-radius: 8px;
+    height: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
